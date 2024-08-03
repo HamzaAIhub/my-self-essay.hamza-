@@ -7,4 +7,4 @@ I am currently doing BS in Artificial Intelligence.
 I have great interest in AI and want to become AI Developer.
 I Started Genrative AI course under PIAIC Institute.
 This is my first experience at github.
-I hope i become a good developer one day.
+
